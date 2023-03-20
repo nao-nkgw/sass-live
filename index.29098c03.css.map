@@ -1,0 +1,1 @@
+{"mappings":"AEAA","sources":["index.29098c03.css","main.css","main.scss"],"sourcesContent":["p {\n  background-color: #ff0;\n}\n\n/*# sourceMappingURL=index.29098c03.css.map */\n","p {\n  background-color: yellow;\n}\n\n","p {\n    background-color: yellow;\n}"],"names":[],"version":3,"file":"index.29098c03.css.map"}

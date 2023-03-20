@@ -1,0 +1,23 @@
+{
+  "name": "sass-live",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "sass --watch main.scss main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nao-nkgw/sass-live.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nao-nkgw/sass-live/issues"
+  },
+  "homepage": "https://github.com/nao-nkgw/sass-live#readme",
+  "dependencies": {
+    "sass": "^1.59.3"
+  }
+}
